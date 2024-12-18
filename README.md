@@ -1,0 +1,1 @@
+This game is called battle ship game. It involves two players who take turns to place their ships before starting the game. Thereafter, the game starts and shots are made to sink each other's ship turn after turn until a winner emerges after sinking all the ship of his opponent.
